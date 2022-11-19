@@ -2,16 +2,24 @@
 
 - I'm doing my second year of double-degree Master in Cloud and Network Infrastructures at KTH, Sweden and Aalto University, Finland.
 - I have a B.Sc. in Electronic and Communications Engineering at Politecnico di Torino, Italy.
-- I'm currently learning Machine Learning to integrate it with my cloud knowledge.
+- I'm currently learning Machine Learning and Data Mining to integrate it with my cloud knowledge.
+- You can contact me here 👉 [![][linkedin-logo]][my-profile]
 
-## I've worked with
+[linkedin-logo]: https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white
+[my-profile]: https://www.linkedin.com/in/tommasopraturlon/
+
+## I've done projects with
 
 ### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-blue.svg?style=for-the-badge&logo=matlab&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+SQL
 
 ### Tools
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white&style=for-the-badge)
@@ -21,13 +29,15 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+Juniper, PostgreSQL, MongoDB, Docker, GCP, 
+
 ### Libraries
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## You can contact me here 
-<a href="https://www.linkedin.com/in/tommasopraturlon/">
-    <img src="https://img.shields.io/badge/-0077B5?style=plastic&logo=linkedin&logoColor=white"></img>
-</a>&nbsp;&nbsp;
+Flask, Hopsworks, Modal, PySpark, 
+
+### Internet Protocols
+HTTP, TCP, IP, BGP, IGP, PIM-SM, MQTT
