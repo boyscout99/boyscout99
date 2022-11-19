@@ -45,4 +45,4 @@ Wireshark, VirtualBox
 Flask, Hopsworks, Modal, PySpark, Kafka, cassandra, h2
 
 ### Internet Protocols
-HTTP, TCP, IP, BGP, IGP, PIM-SM, MQTT
+HTTP, TCP, IP, BGP, IGP, PIM-SM, MQTT, OSPF, IGMP
