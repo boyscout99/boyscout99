@@ -1,9 +1,12 @@
 # 👋 Hi! I’m Tommaso
 
-- I'm doing my second year of double-degree Master in Cloud and Network Infrastructures at KTH, Sweden and Aalto University, Finland.
-- I have a B.Sc. in Electronic and Communications Engineering at Politecnico di Torino, Italy.
-- I'm currently learning Machine Learning and Data Mining to integrate them with my cloud knowledge.
-- You can contact me here 👉 [![][linkedin-logo]][my-profile]
+☁ I'm doing my second year of **double-degree M.Sc. in Cloud and Network Infrastructures** at KTH, Sweden and Aalto University, Finland.
+
+👨‍🎓 I have a **B.Sc. in Electronic and Communications Engineering** at Politecnico di Torino, Italy.
+
+🧠 I'm currently learning **Machine Learning** and **Data Mining** to integrate them with my cloud knowledge.
+
+📬 You can contact me here 👉 [![][linkedin-logo]][my-profile]
 
 [linkedin-logo]: https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white
 [my-profile]: https://www.linkedin.com/in/tommasopraturlon/
@@ -33,8 +36,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-4285F4.svg?style=for-the-badge&logo=vmware&logoColor=white)
-
-Wireshark, VirtualBox
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### Libraries
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
