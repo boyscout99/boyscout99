@@ -46,7 +46,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-Flask, Hopsworks, Modal, PySpark, Kafka, cassandra, h2
+Flask, Hopsworks, Modal, PySpark, Kafka, Cassandra, h2, paho mqtt, asyncio, pyvirtualcam
 
 ### Internet Protocols
 HTTP, TCP, IP, BGP, IGP, PIM-SM, MQTT, OSPF, IGMP
