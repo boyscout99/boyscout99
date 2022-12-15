@@ -1,8 +1,8 @@
 # 👋 Hi! I’m Tommaso
 
-☁ I'm doing my second year of **double-degree M.Sc. in Cloud and Network Infrastructures** at KTH, Sweden and Aalto University, Finland.
+☁ I'm doing my second year of **double-degree M.Sc. in Cloud and Network Infrastructures** at KTH, Sweden and I did my first year in Aalto University, Finland.
 
-👨‍🎓 I have a **B.Sc. in Electronic and Communications Engineering** at Politecnico di Torino, Italy.
+👨‍🎓 I have a **B.Sc. in Electronic and Communications Engineering** from Politecnico di Torino, Italy.
 
 🧠 I'm currently learning **Machine Learning** and **Data Mining** to integrate them with my cloud knowledge.
 
