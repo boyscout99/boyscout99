@@ -1,6 +1,6 @@
 # 👋 Hi! I’m Tommaso
 
-☁ I'm doing my second year of **double-degree M.Sc. in Cloud and Network Infrastructures** at KTH, Sweden and I did my first year in Aalto University, Finland.
+☁ I'm completing my second year of **double-degree M.Sc. in Cloud and Network Infrastructures** at KTH, Sweden and I did my first year in Aalto University, Finland.
 
 👨‍🎓 I have a **B.Sc. in Electronic and Communications Engineering** from Politecnico di Torino, Italy.
 
@@ -40,7 +40,7 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-Linux, Kali Linux
+Linux, Kali Linux, Kubernetes, Google Big Query, Google Cloud Storage, Google Compute Engine, Google Filestore, Prometheus, Grafana
 
 ### Libraries
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
