@@ -4,7 +4,7 @@
 
 👨‍🎓 I have a **B.Sc. in Electronic and Communications Engineering** from Politecnico di Torino, Italy.
 
-🧠 I'm currently learning **Machine Learning** and **Data Mining** to integrate them with my cloud knowledge.
+🧠 I have recently integrated **Deep Learning** and **Deep Reinforcement Learning** into my cloud knowledge because I believe the combination is 💣.
 
 📬 You can contact me here 👉 [![][linkedin-logo]][my-profile]
 
@@ -39,16 +39,18 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-
-Linux, Kali Linux, Kubernetes, Google Big Query, Google Cloud Storage, Google Compute Engine, Google Filestore, Prometheus, Grafana
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0.svg?style=for-the-badge&logo=Istio&logoColor=white)
+![Envoy](https://img.shields.io/badge/Envoy%20Proxy-AC6199.svg?style=for-the-badge&logo=Envoy-Proxy&logoColor=white)
 
 ### Libraries
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-Flask, Hopsworks, Modal, PySpark, Kafka, Cassandra, h2, paho mqtt, asyncio, pyvirtualcam, PyTorch
+NumPy, Pandas, Plotly, scikit-learn, Flask, Hopsworks, Modal, PySpark, Kafka, Cassandra, h2, paho mqtt, asyncio, pyvirtualcam, PyTorch, stable-baselines3
 
 ### Internet Protocols
-HTTP, TCP, IP, BGP, IGP, PIM-SM, MQTT, OSPF, IGMP, WebRTC
+HTTP, TCP, IP, BGP, IGP, PIM-SM, MQTT, OSPF, IGMP, WebRTC, gRPC
