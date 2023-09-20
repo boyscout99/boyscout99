@@ -1,6 +1,6 @@
 # 👋 Hi! I’m Tommaso
 
-☁ I'm completing my second year of **double-degree M.Sc. in Cloud and Network Infrastructures** at KTH, Sweden and I did my first year in Aalto University, Finland.
+☁ I'm completing my second year of **double-degree M.Sc. in Cloud and Network Infrastructures** at KTH, Sweden and I did my first year at Aalto University, Finland.
 
 👨‍🎓 I have a **B.Sc. in Electronic and Communications Engineering** from Politecnico di Torino, Italy.
 
@@ -10,6 +10,8 @@
 
 [linkedin-logo]: https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white
 [my-profile]: https://www.linkedin.com/in/tommasopraturlon/
+
+(and yes, I like to use emojis and **bold** 🤭)
 
 ## I've done projects with
 
