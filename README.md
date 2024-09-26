@@ -6,11 +6,6 @@
 
 🧠 I have recently integrated **Deep Learning** and **Deep Reinforcement Learning** into my cloud knowledge because I believe the combination is 💣.
 
-📬 You can contact me here 👉 [![][linkedin-logo]][my-profile]
-
-[linkedin-logo]: https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white
-[my-profile]: https://www.linkedin.com/in/tommasopraturlon/
-
 ## I've done projects with
 
 ### Languages
