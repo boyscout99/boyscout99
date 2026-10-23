@@ -4,4 +4,5 @@
 - [digikam-scripts](): collection of Digikam scripts I use to automate my photography workflow
 
 Agent skills:
-- [debrief](https://github.com/boyscout99/skills/blob/main/skills/debrief/SKILL.md): get key learnings from the current session 
+- [debrief](https://github.com/boyscout99/skills/blob/main/skills/debrief/SKILL.md): get key learnings from the current session
+- [converse](https://github.com/boyscout99/skills/blob/main/skills/converse/SKILL.md): chat with your coding agent without editing code
